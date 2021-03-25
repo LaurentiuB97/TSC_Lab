@@ -6,6 +6,8 @@
 !sim
 !.gitkeep
 !*.bat
+!*.jpeg
+!*.jpg
 !*tools
 !*.sv
 !*/
