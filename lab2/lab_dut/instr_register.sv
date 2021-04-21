@@ -5,7 +5,7 @@
  * the option:  +define+FORCE_LOAD_ERROR
  *
  **********************************************************************/
-
+//////////////////////
 module instr_register
 import instr_register_pkg::*;  // user-defined types are defined in instr_register_pkg.sv
 (input  logic          clk,
